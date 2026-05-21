@@ -28,7 +28,7 @@ A marca possui forte influência da cultura pop, tendências da internet e esté
 
 # 3️⃣ Produtos da Marca
 
-## 🎒 Mochilas Personalizadas
+##  Mochilas Personalizadas
 Mochilas modernas e customizáveis com diferentes estilos, estampas e acessórios.
 
 ### Características:
@@ -39,7 +39,7 @@ Mochilas modernas e customizáveis com diferentes estilos, estampas e acessório
 - variedade de cores e estilos
 
 ---
-## ✨ Pingentes
+##  Pingentes
 Pingentes decorativos para colocar nas mochilas.
 
 ### Exemplos:
@@ -51,7 +51,7 @@ Pingentes decorativos para colocar nas mochilas.
 
 ---
 
-## 🏷️ Adesivos
+##  Adesivos
 Adesivos personalizados para customização das mochilas.
 
 ### Temáticas:
@@ -63,7 +63,7 @@ Adesivos personalizados para customização das mochilas.
 
 ---
 
-## 📿 Pulseiras
+##  Pulseiras
 Pulseiras decorativas para prender na mochila ou usar no pulso.
 
 ### Estilo:
@@ -74,7 +74,7 @@ Pulseiras decorativas para prender na mochila ou usar no pulso.
 
 ---
 
-## 🧢 Bonés
+##  Bonés
 Bonés com estampas exclusivas da marca.
 
 ### Características:
