@@ -7,7 +7,7 @@
 # Nome da Marca
 ## SUA PACK
 
-## Segmento
+# Segmento
 Moda urbana e acessórios personalizados.
 
 ## Tema do Site
