@@ -39,3 +39,48 @@ Mochilas modernas e customizáveis com diferentes estilos, estampas e acessório
 - variedade de cores e estilos
 
 ---
+## ✨ Pingentes
+Pingentes decorativos para colocar nas mochilas.
+
+### Exemplos:
+- carinhas smile
+- estrelas
+- elementos da cultura pop
+- personagens estilizados
+- acessórios metálicos
+
+---
+
+## 🏷️ Adesivos
+Adesivos personalizados para customização das mochilas.
+
+### Temáticas:
+- música
+- cultura pop
+- frases
+- desenhos urbanos
+- estética jovem
+
+---
+
+## 📿 Pulseiras
+Pulseiras decorativas para prender na mochila ou usar no pulso.
+
+### Estilo:
+- coloridas
+- miçangas
+- estilo handmade
+- tendência adolescente
+
+---
+
+## 🧢 Bonés
+Bonés com estampas exclusivas da marca.
+
+### Características:
+- estilo streetwear
+- bordados personalizados
+- cores vibrantes
+- combinação com mochilas
+
+---
