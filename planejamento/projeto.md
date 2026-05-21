@@ -116,19 +116,19 @@ A SUA PACK busca resolver isso oferecendo:
 ---
 # 6️⃣ Público-Alvo
 
-## 🎯 Público Principal
+##  Público Principal
 - adolescentes
 - estudantes
 - jovens
 
 ---
 
-## 📌 Faixa Etária
+##  Faixa Etária
 13 a 25 anos.
 
 ---
 
-## 📌 Interesses do Público
+##  Interesses do Público
 - cultura pop
 - moda urbana
 - redes sociais
@@ -140,7 +140,7 @@ A SUA PACK busca resolver isso oferecendo:
 
 ---
 
-## 📌 Necessidades do Público
+##  Necessidades do Público
 - produtos diferentes
 - identidade visual moderna
 - facilidade de compra
