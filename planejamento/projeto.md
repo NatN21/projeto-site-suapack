@@ -151,17 +151,17 @@ A SUA PACK busca resolver isso oferecendo:
 
 # 7️⃣ Conceito Mobile First
 
-## 📱 O que é Mobile First?
+##  O que é Mobile First?
 É um conceito onde o site é desenvolvido primeiro para celulares e depois adaptado para telas maiores.
 
 ---
 
-## 📌 Motivo da Escolha
+##  Motivo da Escolha
 A maior parte do público da SUA PACK utiliza smartphones para acessar redes sociais, lojas e conteúdos digitais.
 
 ---
 
-## 📌 Aplicação no Projeto
+##  Aplicação no Projeto
 
 ### ☰ Menu
 - menu hambúrguer
@@ -170,14 +170,14 @@ A maior parte do público da SUA PACK utiliza smartphones para acessar redes soc
 
 ---
 
-### 🖼️ Imagens
+###  Imagens
 - imagens leves
 - carregamento rápido
 - adaptação automática para telas pequenas
 
 ---
 
-### 🔤 Textos
+###  Textos
 - linguagem adolescente
 - textos curtos
 - leitura fácil
