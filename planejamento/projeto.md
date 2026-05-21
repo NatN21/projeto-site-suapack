@@ -5,7 +5,7 @@
 # 1️⃣ Identificação do Projeto
 
 ## Nome da Marca
-## SUA PACK
+### SUA PACK
 
 # Segmento
 Moda urbana e acessórios personalizados.
@@ -23,5 +23,19 @@ A proposta da marca é permitir que cada pessoa monte um estilo próprio atravé
 A SUA PACK é uma marca criada para jovens e adolescentes que gostam de estilo, criatividade e autenticidade. A empresa trabalha com mochilas personalizadas e acessórios que ajudam o público a expressar sua personalidade.
 
 A marca possui forte influência da cultura pop, tendências da internet e estética urbana, trazendo produtos modernos e estilosos.
+
+---
+
+# 3️⃣ Produtos da Marca
+
+## 🎒 Mochilas Personalizadas
+Mochilas modernas e customizáveis com diferentes estilos, estampas e acessórios.
+
+### Características:
+- espaço interno dividido em 3 compartimentos
+- modelos confortáveis
+- design moderno
+- materiais resistentes
+- variedade de cores e estilos
 
 ---
