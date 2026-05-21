@@ -114,4 +114,38 @@ A SUA PACK busca resolver isso oferecendo:
 - estética inspirada na cultura pop
 
 ---
+# 6️⃣ Público-Alvo
+
+## 🎯 Público Principal
+- adolescentes
+- estudantes
+- jovens
+
+---
+
+## 📌 Faixa Etária
+13 a 25 anos.
+
+---
+
+## 📌 Interesses do Público
+- cultura pop
+- moda urbana
+- redes sociais
+- música
+- séries
+- personalização
+- estética jovem
+- acessórios estilosos
+
+---
+
+## 📌 Necessidades do Público
+- produtos diferentes
+- identidade visual moderna
+- facilidade de compra
+- site rápido e responsivo
+- conexão com tendências da internet
+
+---
 
