@@ -101,4 +101,17 @@ Divulgar e vender produtos personalizados voltados ao público jovem.
 - criar uma comunidade jovem em torno da marca
 
 ---
+# 5️⃣ Problema que o Site Pretende Resolver
+
+Muitos jovens procuram produtos modernos e personalizados, mas encontram opções muito básicas e sem identidade.
+
+A SUA PACK busca resolver isso oferecendo:
+
+- produtos criativos
+- personalização
+- estilo próprio
+- conexão com tendências atuais
+- estética inspirada na cultura pop
+
+---
 
