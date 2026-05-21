@@ -5,7 +5,7 @@
 # 1️⃣ Identificação do Projeto
 
 # Nome da Marca
-## SUA PACK
+# SUA PACK
 
 # Segmento
 Moda urbana e acessórios personalizados.
