@@ -84,3 +84,21 @@ Bonés com estampas exclusivas da marca.
 - combinação com mochilas
 
 ---
+
+# 4️⃣ Objetivo do Site
+
+##  Objetivo Principal
+Divulgar e vender produtos personalizados voltados ao público jovem.
+
+---
+
+##  Objetivos Específicos
+- fortalecer a identidade da marca
+- aumentar a presença digital
+- divulgar lançamentos
+- aproximar a marca do público adolescente
+- facilitar a compra online
+- criar uma comunidade jovem em torno da marca
+
+---
+
