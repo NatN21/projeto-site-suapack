@@ -62,7 +62,7 @@ Adesivos personalizados para customização das mochilas.
 - estética jovem
 
 ---
-##  Pulseiras
+## Pulseiras
 Pulseiras decorativas para prender na mochila ou usar no pulso.
 
 ### Estilo:
@@ -73,7 +73,7 @@ Pulseiras decorativas para prender na mochila ou usar no pulso.
 
 ---
 
-##  Bonés
+## Bonés
 Bonés com estampas exclusivas da marca.
 
 ### Características:
