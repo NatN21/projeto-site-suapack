@@ -73,7 +73,7 @@ Pulseiras decorativas para prender na mochila ou usar no pulso.
 
 ---
 
-## Bonés
+## Bones
 Bonés com estampas exclusivas da marca.
 
 ### Características:
