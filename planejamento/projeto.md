@@ -220,3 +220,107 @@ Representa modernidade, autenticidade e juventude.
 Representa estilo urbano e sofisticação.
 
 ---
+##  Fontes
+- Poppins
+- Bebas Neue
+
+Fontes modernas e utilizadas em marcas jovens e urbanas.
+
+---
+
+##  Ideia da Logo
+Uma mochila estilizada com elementos de cultura pop e detalhes gráficos modernos.
+
+A logo poderá conter:
+- smiley
+- adesivos
+- traços urbanos
+- estilo desenhado à mão
+
+---
+
+# 🔟 Presença Digital
+
+##  Instagram
+A marca terá forte presença no Instagram.
+
+### Conteúdos:
+- lançamentos
+- vídeos curtos
+- fotos estéticas
+- reels
+- divulgação de produtos
+- interações com seguidores
+
+---
+
+##  Objetivos nas Redes
+- aumentar o alcance da marca
+- criar identificação com o público
+- divulgar tendências
+- fortalecer a identidade visual
+
+---
+
+# 1️⃣1️⃣ Estrutura do Site
+
+##  Home
+Página inicial com:
+- banner principal
+- novidades
+- produtos em destaque
+- promoções
+- lançamentos
+
+---
+
+##  Mochilas
+Página com catálogo de mochilas.
+
+### Informações:
+- fotos
+- preços
+- modelos
+- opções de personalização
+
+---
+
+##  Acessórios
+Página contendo:
+- pingentes
+- adesivos
+- pulseiras
+- bonés
+
+---
+
+##  Personalização
+Área onde o usuário poderá:
+- combinar acessórios
+- visualizar estilos
+- montar combinações
+
+---
+
+##  Galeria
+Página com:
+- fotos dos produtos
+- inspirações
+- looks
+- combinações estéticas
+
+---
+
+##  Sobre
+História da marca, proposta e identidade da empresa.
+
+---
+
+##  Contato
+Página com:
+- formulário
+- redes sociais
+- e-mail
+- telefone
+
+---
