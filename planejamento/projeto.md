@@ -184,10 +184,39 @@ A maior parte do público da SUA PACK utiliza smartphones para acessar redes soc
 
 ---
 
-### 📱 Organização da Tela
+###  Organização da Tela
 - layout vertical
 - cards organizados
 - destaque para os produtos
 - visual limpo
+
+---
+# 8️⃣ Linguagem do Site
+
+##  Estilo da Linguagem
+O site utilizará uma linguagem jovem, moderna e descontraída para se aproximar do público adolescente.
+
+---
+
+##  Exemplos
+- “Monte sua vibe”
+- “Seu estilo, sua pack”
+- “Customiza do seu jeito”
+- “A mochila que combina com você”
+
+---
+
+# 9️⃣ Identidade Visual
+
+##  Cores Principais
+
+### 🟡 Amarelo
+Representa criatividade, energia e destaque.
+
+### 🟢 Verde
+Representa modernidade, autenticidade e juventude.
+
+### ⚫ Preto
+Representa estilo urbano e sofisticação.
 
 ---
