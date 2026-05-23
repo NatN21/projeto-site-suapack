@@ -324,3 +324,48 @@ Página com:
 - telefone
 
 ---
+# 1️⃣2️⃣ Navegação do Site
+
+## 📌 Características da Navegação
+- simples
+- rápida
+- intuitiva
+- responsiva
+- organizada para celular
+
+---
+
+# 1️⃣3️⃣ Recursos do Site
+
+##  Recursos Planejados
+- menu responsivo
+- carrossel de produtos
+- animações suaves
+- galeria de imagens
+- integração com Instagram
+- formulário de contato
+- sistema de favoritos
+- banners promocionais
+
+---
+
+# 1️⃣4️⃣ Dados Fictícios da Empresa
+
+##  Nome
+SUA PACK
+ Custom Style
+##  Telefone
+(11) 98888-2025
+
+##  E-mail
+contato@suapack.com
+
+##  Endereço
+Rua Urban Style, 150 — Jundiaí/SP
+
+##  Redes Sociais
+- Instagram: @suapack
+- TikTok: @suapack
+- Pinterest: SUA PACK
+
+---
