@@ -16,7 +16,7 @@ Projeto acadêmico desenvolvido para a disciplina de Desenvolvimento Web (Etec),
 |---|---|
 | **Escola** | Etec Vasco Antônio Venchiarutti |
 | **Curso** | Mtec — 2º ano, turma D |
-| **Integrantes** | Natan Alexandro Silva Costa e Pietro Fiorese Dopp |
+| **Integrantes** | Natan Alexandro Silva Costa,  Pietro Fiorese Dopp, Maria Eduarda e Mariana Rasmussem|
 
 ## 🛍️ Produtos da marca
 
